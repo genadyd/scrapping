@@ -17,7 +17,6 @@ namespace HtmlGetters;
  use Traits\GetMaxIdTrait;
 
  require_once 'Traits/GetMaxIdTrait.php';
-// require_once 'AbstractGetter.php';
  require_once 'HtmlGettersInterface.php';
  require_once 'Parsers/RegExpParser.php';
  require_once 'Parsers/SimpleDomParser.php';
